@@ -35,7 +35,7 @@ body {
 }
 
 .footer {
- margin-top: 190px;
+ margin-top: 165px;
  background: rgba(0,0,0,0.5);
  height: 5.5em;
  list-style: none;
@@ -70,14 +70,14 @@ body {
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
     color: #fff;
-    font-size: .8em;
+    font-size: .95em;
     margin-right: 260px;
     position: absolute;
     width: 900px;
 }
 
 .directions {
-	margin-top: 220px;
+	margin-top: 190px;
 }
 
 .directions h2 {
