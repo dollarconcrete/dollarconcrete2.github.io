@@ -54,7 +54,6 @@ a {
 .grid figure figcaption {
 	padding: 1em;
 	color: #fff;
-	text-transform: uppercase;
 	font-size: 1.15em;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;

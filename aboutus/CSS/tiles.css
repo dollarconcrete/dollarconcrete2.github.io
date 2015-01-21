@@ -76,7 +76,7 @@
 }
 
 .grid figure p {
-	letter-spacing: 1px;
+	letter-spacing: 0.04em;
 	font-size: 68.5%;
 	padding: 0px;
 	margin-top: -10px;
