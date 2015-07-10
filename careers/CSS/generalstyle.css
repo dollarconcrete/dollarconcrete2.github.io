@@ -35,7 +35,7 @@ body {
 }
 
 .footer {
- margin-top: 270px;
+ margin-top: 170px;
  background: rgba(0,0,0,0.5);
  height: 5.5em;
  list-style: none;
@@ -63,12 +63,13 @@ body {
 }
 
 .careers {
-	margin-bottom: 260px;
+	margin-bottom: 0px;
 }
 
 .careers h2 {
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
+    position: relative;
     color: #fff;
     margin-left: 30px;
     margin-top: -22%;
@@ -79,7 +80,7 @@ body {
     text-decoration: none;
     color: #fff;
     font-size: .8em;
-    position: absolute;
+    position: relative;
     width: 840px;
     margin-left: 30px;
 }
