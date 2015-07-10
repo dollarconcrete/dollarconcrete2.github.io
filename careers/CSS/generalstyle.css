@@ -62,7 +62,7 @@ body {
 }
 
 .careers {
-	margin-top: -45%;
+	margin-bottom: 260px;
 }
 
 .careers h2 {
@@ -70,6 +70,7 @@ body {
     text-decoration: none;
     color: #fff;
     margin-left: 30px;
+    margin-top: -22%;
 }
 
 .careers p {
