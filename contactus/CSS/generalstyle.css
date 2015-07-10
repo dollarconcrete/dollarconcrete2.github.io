@@ -84,6 +84,7 @@ body {
 .directions h2 {
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
+    position: relative;
     color: #fff;
 }
 
@@ -93,7 +94,7 @@ body {
     color: #fff;
     font-size: .8em;
     margin-right: 260px;
-    position: absolute;
+    position: relative;
     width: 350px;
 }
 
