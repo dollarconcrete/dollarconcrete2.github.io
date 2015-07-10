@@ -3,8 +3,9 @@
 	text-align: center;
 	vertical-align: text-bottom;
 	margin: 0 auto;
-	margin-top: 45px;
-	padding: 2.3em 0.1em 0.1em;
+	padding: 0.8em 0.1em 0.1em;
+    
+    position: relative;
 }
 
 .hi-icon {
@@ -25,6 +26,7 @@
 	/* border-style: solid;
 	border-width: 4px; */
 	font-family: 'Raleway', sans-serif;
+    /* overflow: hidden; */
 }
 
 /****************/
@@ -43,8 +45,8 @@
 	background-position: center 22%;
 	padding-top:19px;
 } */
-.foundations p{
-	padding-top:70px;
+.hi-icon p{
+	padding-top:100px;
 	
 }
 /****************/

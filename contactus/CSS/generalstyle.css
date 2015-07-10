@@ -78,6 +78,7 @@ body {
 
 .directions {
 	margin-top: 190px;
+    position: relative;
 }
 
 .directions h2 {

@@ -3,7 +3,6 @@ body {
     margin: 0px;
     padding: 0px;
     height:100%;
-    
 } 
 
 #background {
@@ -35,7 +34,7 @@ body {
 }
 
 .footer {
- margin-top: 828px;
+ margin-top: 108px;
  background: rgba(0,0,0,0.5);
  height: 5.5em;
  list-style: none;
