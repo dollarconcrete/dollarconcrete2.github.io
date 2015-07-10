@@ -39,6 +39,7 @@ body {
  background: rgba(0,0,0,0.5);
  height: 5.5em;
  list-style: none;
+ position: relative;
 }
 
 .footer p {
