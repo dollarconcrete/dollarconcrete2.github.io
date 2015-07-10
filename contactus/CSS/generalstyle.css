@@ -63,6 +63,7 @@ body {
 .contactus h2 {
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
+    position: relative;
     color: #fff;
 }
 
@@ -72,12 +73,12 @@ body {
     color: #fff;
     font-size: .95em;
     margin-right: 260px;
-    position: absolute;
+    position: relative;
     width: 900px;
 }
 
 .directions {
-	margin-top: 190px;
+	margin-top: 45px;
     position: relative;
 }
 
